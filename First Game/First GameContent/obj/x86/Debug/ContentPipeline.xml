@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>font_Arial.spritefont</Source>
+      <Name>font_Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Documents\C# Game\First Game\First Game\First Game\bin\x86\Debug\Content\font_Arial.xnb</Output>
+      <Time>2013-04-16T05:13:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>spr_cursor.png</Source>
+      <Name>spr_cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Documents\C# Game\First Game\First Game\First Game\bin\x86\Debug\Content\spr_cursor.xnb</Output>
+      <Time>2013-04-16T23:33:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>spr_dirt.png</Source>
+      <Name>spr_dirt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Documents\C# Game\First Game\First Game\First Game\bin\x86\Debug\Content\spr_dirt.xnb</Output>
+      <Time>2013-06-23T00:08:34-04:00</Time>
+    </Item>
+    <Item>
+      <Source>spr_stone.png</Source>
+      <Name>spr_stone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Documents\C# Game\First Game\First Game\First Game\bin\x86\Debug\Content\spr_stone.xnb</Output>
+      <Time>2013-06-23T00:11:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>spr_grass.png</Source>
+      <Name>spr_grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Documents\C# Game\First Game\First Game\First Game\bin\x86\Debug\Content\spr_grass.xnb</Output>
+      <Time>2013-06-23T00:13:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>spr_square.png</Source>
+      <Name>spr_square</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Documents\C# Game\First Game\First Game\First Game\bin\x86\Debug\Content\spr_square.xnb</Output>
+      <Time>2013-06-23T11:33:56-04:00</Time>
+    </Item>
+    <Item>
+      <Source>spr_water.png</Source>
+      <Name>spr_water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Documents\C# Game\First Game\First Game\First Game\bin\x86\Debug\Content\spr_water.xnb</Output>
+      <Time>2013-06-23T16:37:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>spr_blankTile.png</Source>
+      <Name>spr_blankTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steven\Documents\C# Game\First Game\First Game\First Game\bin\x86\Debug\Content\spr_blankTile.xnb</Output>
+      <Time>2014-04-30T11:19:43.4572554-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Steven\Documents\C# Game\First Game\First Game\First GameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Steven\Documents\C# Game\First Game\First Game\First Game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Steven\Documents\C# Game\First Game\First Game\First GameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Steven\Documents\C# Game\First Game\First Game\First Game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-12-09T16:02:53.3694276-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

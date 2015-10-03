@@ -1,0 +1,8 @@
+Content\font_Arial.xnb
+Content\spr_cursor.xnb
+Content\spr_dirt.xnb
+Content\spr_stone.xnb
+Content\spr_grass.xnb
+Content\spr_square.xnb
+Content\spr_water.xnb
+Content\spr_blankTile.xnb

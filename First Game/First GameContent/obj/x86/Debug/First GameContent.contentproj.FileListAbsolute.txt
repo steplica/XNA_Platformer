@@ -1,0 +1,2 @@
+C:\Users\Steven\Documents\C# Game\First Game\First Game\First GameContent\obj\x86\Debug\First GameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Steven\Documents\Visual Studio 2010\Projects\First Game\First Game\First GameContent\obj\x86\Debug\First GameContent.contentprojResolveAssemblyReference.cache
